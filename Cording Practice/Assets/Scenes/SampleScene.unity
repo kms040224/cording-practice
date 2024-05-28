@@ -350,10 +350,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1503026063}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4aa68a04fe5585e499cbcb08aefa9aaa, type: 3}
+  m_Script: {fileID: 11500000, guid: 36a16183289a8304783aa329e05caf5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  JungminAction: Attack
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
