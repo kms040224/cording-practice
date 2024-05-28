@@ -62,10 +62,9 @@ public class SwitchEx : MonoBehaviour
     
     void Start()
     {   //스위치문 기본 구조 예제
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            DiceNum();
-        }
+       
+       
+       
        
         
     }
@@ -73,6 +72,9 @@ public class SwitchEx : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            DiceNum();
+        }
     }
 }
