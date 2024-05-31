@@ -320,7 +320,7 @@ GameObject:
   - component: {fileID: 1503026065}
   - component: {fileID: 1503026066}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: KimKimPyeongPyeongOh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -350,17 +350,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1503026063}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76d6d6ec1d704324a9231ddcbd1b2f99, type: 3}
+  m_Script: {fileID: 11500000, guid: bf3cacf68fadbd441b8f26c5c678cf12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  poComboAttack:
-  - "\uC7BD"
-  - "\uD6C5"
-  - "\uC5B4\uD37C"
-  - "\uD23C\uC2A4\uD1A4 \uD30C\uC77C\uB4DC\uB77C\uC774\uBC84"
-  skillNum: 0
-  _skill: 
-  usingCount: 0
+  characterLv: 50
+  hydroCanon: "\uD558\uC774\uB4DC\uB85C \uCE90\uB17C"
+  learnSkill: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
