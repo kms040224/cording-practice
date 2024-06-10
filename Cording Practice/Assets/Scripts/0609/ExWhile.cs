@@ -20,7 +20,7 @@ public class ExWhile : MonoBehaviour
     {
         Debug.Log("김평오는 독에 걸려있다");
         poisonDmg = 40;
-        while (hp == 0) ;
+        while (hp == 0)
         {
             hp = hp - poisonDmg;
             Debug.Log(hp);
